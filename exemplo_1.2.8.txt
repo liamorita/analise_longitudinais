@@ -1,0 +1,7 @@
+Material;Dentina;Sens_pre;Sens_pos_ausente;Sens_pos_presente;Total
+Single_Bond;Seca;Ausente;22;1;23
+Bond;;Presente;3;6;9
+;;Subtotal;25;7;32
+
+Avaliação clínica de dois adesivos dentinários 18
+meses após aplicação em dentina seca ou úmida
