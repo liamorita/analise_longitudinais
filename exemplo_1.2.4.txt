@@ -1,4 +1,4 @@
-Voluntario;Periodo;Tempo_0;Tempo_5;Tempo_10;Tempo_15;Tempo_30;Tempo_45;Tempo_60;
+Voluntario;Periodo;Tempo_0;Tempo_5;Tempo_10;Tempo_15;Tempo_30;Tempo_45;Tempo_60
 1;Antes;6.3;6.2;6.0;5.8;5.5;5.3;5.1
 2;Antes;6.7;6.5;6.4;6.4;6.2;6.2;5.9
 3;Antes;6.3;6.3;6.2;6.3;5.9;5.7;5.5
