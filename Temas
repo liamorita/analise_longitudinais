@@ -1,0 +1,24 @@
+
+# Sobre modelos multiníveis, também chamados de "modelos hierárquicos" devido ao termo aleatório do indivíduo
+ao longo das medidas no tempo
+https://bookdown.org/content/4253/doing-data-analysis-with-the-multilevel-model-for-change.html
+
+# Aplicação do pacote afex para medidas repetidas
+http://singmann.org/anova-in-r-afex-may-be-the-solution-you-are-looking-for/
+https://ademos.people.uic.edu/Chapter21.html
+https://www.psychologie.uni-heidelberg.de/ae/meth/team/mertens/blog/anova_in_r_made_easy.nb.html
+
+# Varios materiais incluindo teste de Friedman - não parametrico para medidas repetidas
+https://rpubs.com/vitorks/665678
+
+# Aplicação do pacote lme, similar ao lme4 para modelos lineares de efeitos mistos
+https://stats.idre.ucla.edu/r/examples/alda/r-applied-longitudinal-data-analysis-ch-6/
+
+# Modelos lineares de efeitos mistos, dados em painel e pacote lme4
+https://mahayana.me/mlm/
+https://smolski.github.io/livroavancado/regressao-com-dados-em-painel.html
+
+# Imputação múltipla para dados ausentes em estudos longitudinais
+http://www.leg.ufpr.br/lib/exe/fetch.php/pessoais:marilia:workshop_estudos_longitudinais:sessao3.pdf
+https://rmisstastic.netlify.app/tutorials/erler_course_multipleimputation_2018/erler_practical_miadvanced_2018
+
