@@ -1,4 +1,4 @@
-📝 Instalar o R base & R studio, instalar e carregar os pacotes indicados, reproduzir os exemplos 2 ao 6 (fazer a extração dos dados em txt);
+📝 26/fev: Instalar o R base & R studio, instalar e carregar os pacotes indicados, reproduzir os exemplos 2 ao 6 (fazer a extração dos dados em txt);
 📝 Implementar os exemplos 2 ao 6 - extração dos dados e geração de um relatório em R markdown com saída em HTML ou PDF - se der erro na geração 
 do arquivo PDF é necessário verificar o cabeçalho do documento. Pode-se encontrar exemplos de templates prontos na internet para implementação.
 Templates: formatos prontos para implementação.
