@@ -1,9 +1,9 @@
-📝 Para a próxima aula 18/set: Instalar o R base & R studio, instalar e carregar os pacotes indicados, reproduzir os exemplos 2 ao 6 (fazer a extração dos dados em txt);
-📝 Para a próxima aula 25/set: implementar os exemplos 2 ao 6 - extração dos dados e geração de um relatório em R markdown com saída em HTML ou PDF - se der erro na geração 
+📝 Instalar o R base & R studio, instalar e carregar os pacotes indicados, reproduzir os exemplos 2 ao 6 (fazer a extração dos dados em txt);
+📝 Implementar os exemplos 2 ao 6 - extração dos dados e geração de um relatório em R markdown com saída em HTML ou PDF - se der erro na geração 
 do arquivo PDF é necessário verificar o cabeçalho do documento. Pode-se encontrar exemplos de templates prontos na internet para implementação.
 Templates: formatos prontos para implementação.
-📝 Para a próxima aula 02/out: pesquisar sobre conjuntos de dados reais para aplicar a Análise de Variância (ANOVA) - one way (um fator) e two way (dois fatores).
-📝 Para a próxima aula 09/out: pesquisar sobre conjuntos de dados reais para aplicar a Análise de Variância (ANOVA) - one way (um fator) e two way (dois fatores), 
+📝 Pesquisar sobre conjuntos de dados reais para aplicar a Análise de Variância (ANOVA) - one way (um fator) e two way (dois fatores).
+📝 Pesquisar sobre conjuntos de dados reais para aplicar a Análise de Variância (ANOVA) - one way (um fator) e two way (dois fatores), 
 além de Análise de Variância (ANOVA) com medidas repetidas, que é o caso onde os indivíduos são avaliados mais de uma vez - pode ser em função do tempo ou outra variável, 
 como baixo teor de sódio e alto teor de sódio (exemplo na página do curso). Sugere-se que os alunos enviem os conjuntos de dados antes da aula (no dia anterior),
 para que dê tempo de processar os dados e já apresentar na aula pela professora.
