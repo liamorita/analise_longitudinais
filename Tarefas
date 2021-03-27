@@ -9,3 +9,23 @@ além de Análise de Variância (ANOVA)
 📝 26/mar: Conjuntos de dados com medidas repetidas, que é o caso onde os indivíduos são avaliados mais de uma vez - pode ser em função do tempo ou outra variável, 
 como baixo teor de sódio e alto teor de sódio (exemplo na página do curso). Sugere-se que os alunos enviem os conjuntos de dados antes da aula (no dia anterior),
 para que dê tempo de processar os dados e já apresentar na aula pela professora.
+
+📝 09/abr: Exemplo 1 do tópico modelo linear misto (dados de penicilina). 
+Para cada individuo ou unidade (plate) , olhe o gráfico por facetas
+(facet_wrap), e veja que foi estimado uma linha de tendencia para cada unidade.
+utilize o comando lm(diameter ~ sample) para estimar a reta para cada unidade.
+Serão 24 retas estimadas. Otimize esta tarefa com comando for, while ou equivalente.
+para exibir os coeficientes linear (intercepto) e angular (inclinação) para cada
+uma das 24 estimações.
+Dica: crie uma lista para guardar as estimativas:
+resultados=list()
+dados=Penicillin
+i=1
+while(i<=24){
+COLOCAR UM FILTRO BANCO DE DADOS
+dados1=FILTRO....
+resultados[[i]]=lm(diameter ~ sample,data=dados1)
+i=i+1
+}
+resultados[[1]]
+resultados[[2]]
