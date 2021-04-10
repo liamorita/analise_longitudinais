@@ -36,4 +36,7 @@ Modelo I (mais simples):
 Efeito fixo (sample) + Efeito aleatório no intercepto (plate) 
 porém considere a variável "sample" como numerica, 
 ao invés de categórica (como está no material).
+Qual é a diferença entre considerar numérica ou categorica?
+Utilize o criterio de informação AIC & BIC para verificar
+qual é melhor: variavel explicativa sample deve ser categórica ou numerica?
 
