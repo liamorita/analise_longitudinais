@@ -29,3 +29,11 @@ i=i+1
 }
 resultados[[1]]
 resultados[[2]]
+
+📝 16/abr: Exemplo de Penicilina: 
+Modelo linear de efeitos mistos: 
+Modelo I (mais simples):
+Efeito fixo (sample) + Efeito aleatório no intercepto (plate) 
+porém considere a variável "sample" como numerica, 
+ao invés de categórica (como está no material).
+
