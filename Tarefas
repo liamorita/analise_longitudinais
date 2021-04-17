@@ -30,7 +30,7 @@ i=i+1
 resultados[[1]]
 resultados[[2]]
 
-📝 16/abr: Exemplo de Penicilina: 
+📝 23/abr: Exemplo de Penicilina: 
 Modelo linear de efeitos mistos: 
 Modelo I (mais simples):
 Efeito fixo (sample) + Efeito aleatório no intercepto (plate) 
@@ -40,3 +40,6 @@ Qual é a diferença entre considerar numérica ou categorica?
 Utilize o criterio de informação AIC & BIC para verificar
 qual é melhor: variavel explicativa sample deve ser categórica ou numerica?
 
+📝 23/abr: Explorar mais exemplos de modelos mistos no pacote lme4,
+além de outros na internet / outros pacotes do R, que 
+tenham dados longitudinais.
